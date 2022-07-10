@@ -1,4 +1,4 @@
-# Stopwatch
+# Nutrition blog
  Nutrition blog using React. Use of an HTTP protocol to request data from an API.
 
 
